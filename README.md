@@ -48,13 +48,3 @@ The plugin automatically fetches data via AJAX and updates the scores dynamicall
 
 ---
 
-## License
-
-MIT License © Seth Borey
-
----
-
-## Contact
-
-For support or inquiries, please contact Seth Borey.
-
